@@ -59,8 +59,6 @@
 import math
 MOD = 998244353
 
-n, m = map(int, input().split())
-
 # 組合せ計算用前準備
 def init(n): # O(n)
   fact = [1]*(n+1)
@@ -108,6 +106,8 @@ def prime_factorization(data, n): # O(nlog(n))
     if data[n] == n:
       return ret
     n //= data[n]
+
+n, m = map(int, input().split())
 
 fact, rfact = init(10**6)
 if m > 1:
