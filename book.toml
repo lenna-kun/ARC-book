@@ -1,0 +1,9 @@
+[book]
+authors = ["Coordinator"]
+language = "ja"
+multilingual = false
+src = "src"
+title = "ARC テクニックまとめ"
+
+[output.html]
+mathjax-support = true
