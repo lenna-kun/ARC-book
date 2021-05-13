@@ -18,6 +18,6 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-        external_repository: lenna-kun/ARC
+        external_repository: lenna-kun/lenna-kun.github.io
         PUBLISH_BRANCH: master
         PUBLISH_DIR: ./book
