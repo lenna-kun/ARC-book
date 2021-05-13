@@ -3,7 +3,7 @@ authors = ["Coordinator"]
 language = "ja"
 multilingual = false
 src = "src"
-title = "ARC テクニックまとめ"
+title = "ARC 解法まとめ"
 
 [output.html]
 mathjax-support = true
