@@ -2,6 +2,8 @@
 
 [https://atcoder.jp/contests/arc116/tasks/arc116_c](https://atcoder.jp/contests/arc116/tasks/arc116_c)
 
+実行時間制限: 2 sec / メモリ制限: 1024 MB
+
 ## 問題文
 
 整数\\(N \\)， \\(M \\)が与えられる．長さ \\(N \\)の数列 \\(A \\)であって，以下の条件を満たすものの数を答えよ．
